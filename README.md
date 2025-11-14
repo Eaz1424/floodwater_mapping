@@ -1,4 +1,4 @@
-# Project 3 · Mapping Floodwaters with Deep Learning
+# Mapping Floodwaters with Deep Learning
 
 This project demonstrates a rapid-response workflow for delineating flood extent from multi-temporal Sentinel-2 imagery using a U-Net segmentation model. All data are synthetically generated so the notebook can run end-to-end without external downloads.
 
